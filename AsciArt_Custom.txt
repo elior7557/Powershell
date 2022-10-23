@@ -1,0 +1,7 @@
+./AsciArt.ps1 -text "Elior The King" -color DarkBlue 
+./AsciArt.ps1 -text "Elior The King" -color DarkGreen 
+./AsciArt.ps1 -text "Elior The King" -color DarkCyan 
+./AsciArt.ps1 -text "Elior The King" -color DarkRed 
+./AsciArt.ps1 -text "Elior The King" -color DarkMagenta 
+./AsciArt.ps1 -text "Elior The King" -color DarkYellow 
+./AsciArt.ps1 -text "Elior The King" -color Gray 
